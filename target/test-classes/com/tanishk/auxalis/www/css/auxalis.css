@@ -1,0 +1,53 @@
+body {
+  background: #1b0126;
+  padding: 0;
+  margin: 0;
+  font-weight: bold;
+  overflow: hidden;
+}
+
+.overlay-panel {
+  font-family: sans-serif;
+  text-align: left;
+
+  background-color: #29005bb8;
+  z-index: 1000;
+  border: 2px solid #ff00ff;
+  color: #ffffff;
+}
+
+.overlay-header {
+  color: #eb9aff;
+}
+
+#selector {
+  position: absolute;
+  top: 10px;
+}
+
+#attribution-overlay {
+  position: absolute;
+  font-family: sans-serif;
+  bottom: 10px;
+  right: 10px;
+  width: 100%;
+  text-align: right;
+  color: #ffffff;
+  font-size: 13px;
+}
+
+ul.ui-autocomplete.ui-menu {
+  z-index: 1000;
+}
+
+#distance-header {
+  color: #9a00d2;
+}
+
+.info-element {
+  color: #7b00c8e9;
+}
+
+.ui-accordion-header {
+  background-color: linear-gradient(to bottom, #33ccff 0%, #ff99cc 81%);
+}

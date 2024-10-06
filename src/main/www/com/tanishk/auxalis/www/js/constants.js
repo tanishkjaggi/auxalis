@@ -1,0 +1,2 @@
+var MARKER_RADIUS = 0.0000025; // largest star is 0.0000022463178571444774 lys radius
+var SOL_MARKER_RADIUS = .000003;
