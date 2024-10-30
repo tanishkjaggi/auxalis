@@ -1,6 +1,37 @@
 Overview
 The Auxalis project is a 3D visualization of Earth's solar neighborhood which provides a 3D visualisation of known exoplanet systems and stars in our universe , all of which are observable enough by the HWO for characterization, rendered in the browser using WebGL (via the three.js library). The project includes all known stars and known exoplanets data from the NASA EXOPLANET ARCHIVE.
 
+**Demonstration listed on YouTube at :** https://youtu.be/GKy6aX9rudc?si=93vV-4-iv4441GgN&t=28
+
+![image](https://github.com/user-attachments/assets/ddcd7b5a-3acd-4862-b70b-6863c70d4903)
+
+**Temperature based rendering :**
+![image](https://github.com/user-attachments/assets/00a0870d-896f-4bf4-88d0-bedb79ccec2c)
+![image](https://github.com/user-attachments/assets/8e02b362-bfa8-41a8-beaa-b0a3a1280466)
+
+Every Twinkle is a body!
+
+![image](https://github.com/user-attachments/assets/01a2a63a-81e3-46dd-b714-0426afb2bae9)
+
+Detailed Data visualisation and Hypothetical visualisation :
+
+![image](https://github.com/user-attachments/assets/879920f4-c3f7-445d-977b-5059670d2ec9)
+
+Misc features like search , telescope diameters , view options and highlights for bodies!
+
+![image](https://github.com/user-attachments/assets/3446b4e8-0bf7-445f-b3f4-a184325ad545)
+
+Highlights :
+
+![image](https://github.com/user-attachments/assets/4e9b7771-52f0-4da9-a7fc-1b9e362dbc90)
+
+
+
+
+
+
+
+
 USAGE INSTRUCTIONS FOR SPACE APPS JUDGING :
 
 **- IF need to build from source :**
